@@ -4,7 +4,7 @@ LAB-1-DSA
 
 GitHub Account: github.com/umair-gititall
 
-Repository: LAB-1-DSA
+Repository: [LAB-1-DSA](https://github.com/umair-gititall/LAB-1-DSA)
 
 Source Code: .cpp file added in the repository
 
